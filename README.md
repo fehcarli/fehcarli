@@ -1,4 +1,4 @@
-- 👋 E ae! sou o Felipe ou @fehcarli no github
+- E ae?👋 Sou o Felipe
 - 👀 Se vc entrou pra olhar o que tenho de projetos, estou estudando um pouco e vou ainda colocar meus projetos de portifolio por aqui, então perae que vai ter mais coisas vindo!
 
 <!---
